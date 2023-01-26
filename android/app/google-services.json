@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764350364631",
+    "project_id": "samyur-f73ba",
+    "storage_bucket": "samyur-f73ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764350364631:android:c05754460e09e85c272992",
+        "android_client_info": {
+          "package_name": "com.samyur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764350364631-2c76kbdmcdh4i62r7sdls0g1hrucoj2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYyFpvhKXtpq1WHmwbvOmDJPmnsn16vVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764350364631-2c76kbdmcdh4i62r7sdls0g1hrucoj2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
